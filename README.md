@@ -1,8 +1,7 @@
 # Customer Similarity
 
-**Purpose:** Assess the similarity between supermarket customers. 
-
-### Purpose: *Assess the similarity between supermarket customers.* 
+### Purpose 
+Assess the similarity between supermarket customers. 
 
 ### Data
 The dataset includes 10,000 supermarket customer profiles with the following attributes:
