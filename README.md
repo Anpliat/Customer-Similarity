@@ -1,6 +1,6 @@
 # Customer Similarity
 
-### Purpose 
+### Scope 
 Assess the similarity between supermarket customers. 
 
 ### Data
