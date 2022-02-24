@@ -5,16 +5,18 @@ Assess the similarity between supermarket customers.
 
 ### Data
 The dataset includes 10,000 supermarket customer profiles with the following attributes:
-* Customer ID: The unique id of the customer. 
-* Age: The age of the customer. 
-* Sex: Male-Female. 
-* Marital Status: Married, Single, Divorced. 
-* Education: Primary, Secondary, Tertiary. 
-* Annual Income: The annual customer income. 
-* Customer Rating: The rating of the supermarket from the customer (Poor, Fair, Good, Very Good, Excellent) 
-* Persons in Household: Number of persons in the household. 
-* Occupation: The occupation of each customer (retired, housemaid, unemployed, management, entrepreneur, blue-collar, self-employed, services, technician). 
-* Groceries: A list of the customer groceries. 
+Attribute | Content
+--- | ---
+Customer ID | The unique id of the customer. 
+Age | The age of the customer. 
+Sex | Male-Female. 
+Marital Status | Married, Single, Divorced. 
+Education | Primary, Secondary, Tertiary. 
+Annual Income | The annual customer income. 
+Customer Rating | The rating of the supermarket from the customer (Poor, Fair, Good, Very Good, Excellent) 
+Persons in Household | Number of persons in the household. 
+Occupation | The occupation of each customer (retired, housemaid, unemployed, management, entrepreneur, blue-collar, self-employed, services, technician). 
+Groceries | A list of the customer groceries. 
 
 ### Workflow for calculating customer similarity
 To calculate the similarity between the customers, we used the following steps: 
